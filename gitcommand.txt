@@ -1,0 +1,17 @@
+git config --global user.email "er.jeevanverma@gmail.com"
+
+git config --global user.name "jeevangt"
+
+git version
+
+git status
+
+https://github.com/jeevangt/repo1.git
+
+git add fiile name
+
+git commit -m "added filename"
+
+git remote add origin https://github.com/jeevangt/repo1.git
+
+git push -u origin master
